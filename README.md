@@ -1,4 +1,4 @@
-# Portfolio / Портфолио
+# Hi! This is my Portfolio
 Data sciense projects I did while studying at Yandex.Practicum 
 ----------------------------------------------------------------------
 
