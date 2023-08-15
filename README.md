@@ -1,5 +1,3 @@
-### Hi! This is my portfolio.
-
 # Portfolio / Портфолио
 Data sciense projects I did while studying at Yandex.Practicum 
 ----------------------------------------------------------------------
