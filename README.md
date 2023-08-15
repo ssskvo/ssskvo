@@ -4,7 +4,7 @@ Data sciense projects I did while studying at Yandex.Practicum
 
 | |Project name|Project discription|
 |-|------------|-------------------|
-|1|Computer games's webstore (EDA)|Determining the laws affecting the success of games on open historical data about sales of computer games|
+|1|[Computer games's webstore (EDA)](Computer-games-s-webstore/Games webstore.ipynb)|Determining the laws affecting the success of games on open historical data about sales of computer games|
 |2|Well location selection (regression)|Development of a model to predict oil production revenues based on oil reserves and quality data in three regions|
 |3|Taxi order prediction (time series)|Development of a model that predicts the number of taxi orders for the next hour according to historical data|
 |4|Customer outflow prediction (classification)|Development of a model that predicts customer outflow|
